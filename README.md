@@ -1,3 +1,7 @@
+Two Python files, Data Mount_Design Implementation.py and Analytical_Queries.py are included.
+Azure Blob Storage and Databricks were used to store the data and to model a datawarehouse respectively.
+
+
 Data Dictionary
 
 
