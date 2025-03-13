@@ -1,4 +1,4 @@
-Two Python files, Data Mount_Design Implementation.py and Analytical_Queries.py are included.
+Two Python files, DataMount_DesignImplementation.py and Analytical_Queries.py are included.
 Azure Blob Storage and Databricks were used to store the data and to model a datawarehouse respectively.
 A Data Dictionary is also included in this README.md file for reference.
 
