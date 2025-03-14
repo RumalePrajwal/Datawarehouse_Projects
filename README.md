@@ -2,6 +2,9 @@ Two Python files, DataMount_DesignImplementation.py and Analytical_Queries.py ar
 Azure Blob Storage and Databricks were used to store the data and to model a datawarehouse respectively.
 A Data Dictionary is also included in this README.md file for reference.
 
+Additionally if the raw-dataset is needed, here is the URL of the blob storage
+https://ecommercetarget.blob.core.windows.net/ecommerce-data?sp=r&st=2025-03-14T21:00:06Z&se=2025-07-01T05:00:06Z&sv=2024-11-04&sr=c&sig=PUq2%2FPC6aLP%2BdlxoUuFRlB7A5bzX1Yk4m%2Fa4i3Gly6o%3D
+
 
 Data Dictionary
 
