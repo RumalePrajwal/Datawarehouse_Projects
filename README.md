@@ -3,7 +3,7 @@ Azure Blob Storage and Databricks were used to store the data and to model a dat
 A Data Dictionary is also included in this README.md file for reference.
 
 Additionally if the raw-dataset is needed, here is the URL of the blob storage
-[Download CSV](https://ecommercetarget.blob.core.windows.net/ecommerce-data?sp=r&st=2025-03-14T21:13:00Z&se=2025-07-01T05:00:06Z&spr=https&sv=2024-11-04&sr=c&sig=LlOjen5%2FAmixcjEiYhKLrSWoAkUvrBtkf42dO%2FU6A3o%3D)
+[Download CSV](https://ecommercetarget.blob.core.windows.net/ecommerce-data/customers.csv?sp=r&st=2025-03-14T21:16:31Z&se=2025-06-12T05:14:31Z&spr=https&sv=2024-11-04&sr=b&sig=GBjLU3nd6941d1hB7EmrTzZqbX9FtTcz1UqC%2Bx4ltfg%3D)
 
 
 Data Dictionary
